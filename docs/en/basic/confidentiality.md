@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: 09.04.2024**
+**Effective Date: 22.07.2025**
 
 Your trust in the confidentiality of your data is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use our services, including our launcher and personal account (hereinafter referred to as "services").
 
@@ -27,7 +27,8 @@ Your trust in the confidentiality of your data is important to us. This Privacy 
 - **To Protect Rights:** When necessary to protect the rights, property, or safety of us, our users, or others.
 
 ## 4. Security
-**We take reasonable measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of data transmission over the internet or method of electronic storage is completely secure, so we cannot guarantee absolute security.**
+**We take reasonable measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of data transmission over the internet or method of electronic storage is completely secure, so we cannot guarantee absolute security.
+Important: Any attempt to bypass the security mechanisms of the launcher or website (including hacking, request spoofing, or interfering with the operation of the client or server) is considered a violation of the Privacy Policy and the User Agreement. Such actions may result in account suspension and legal liability in accordance with applicable law.**
 
 ## 5. Your Rights
 **You have the right to access, correct, or delete your personal information that we store. You may also restrict or object to the processing of your information under certain circumstances. To exercise these rights, please contact us at administration@arsland-minecraft.ru.**
