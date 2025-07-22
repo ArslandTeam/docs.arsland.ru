@@ -1,85 +1,72 @@
 # Minecraft Rules
 
-## Gameplay Rules
+## 1. General Provisions
+By playing on our server, you agree to all the rules listed below. If you do not agree, you are obliged to stop using the project's services.  
+When interacting on the server, follow not only the rules but also moral norms.  
+You are personally responsible for your accounts and any other belongings on the project; the administration bears no responsibility for their loss.  
+If a player is deemed to be harming the server and/or other players, the administration may take measures not listed in the rules.  
+All rules serve as a guideline for reasonably imposing punishments on users.  
+The administration has the right to interpret the meaning of the rules independently.  
+The administration chooses the punishment for rule violations at its own discretion.
 
-#### Rule - 1.1
-Killing other players without their consent is prohibited. Killing is only allowed in self-defense if a player intentionally inflicts more than 40% of your health (hearts) without your consent. Exceptions include races with less health, such as phantoms (4 hearts). They are allowed to attack when 20% of their health is depleted.  
-| Penalty:    |
-| ----------- |
-| 16 spurs    |
+## 2. Communication Rules
 
-#### Rule - 1.2
-Creating and using skins, nicknames, tools, and other items with political, religious, Nazi, sexist, immoral, racist, or similar themes is prohibited.  
-| Punishment:     | Punishment Details:         |
-| --------------- | --------------------------- |
-| Ban             | 15 days / Account Blocking  |
+### 2.1 - Incitement of Hatred
+Incitement of hatred or enmity by degrading a person’s dignity based on gender, race, nationality, language, religion, or belonging to any social group.
 
-#### Rule - 1.3
-Building structures in an indecent manner is prohibited.  
-| Penalty:    |
-| ----------- |
-| 3 gears     |
+### 2.2 - SPAM/Flood
 
-#### Rule - 1.4
-When killing a player in self-defense ([Rule - 1.1](#rule-1-1)) or when they trespass on your territory ([Rule - 3.3](#rule-3-3)), it is prohibited to prevent the killed player from retrieving their items, demand payment, or refuse to return them.
+### 2.3 - Bullying
+Threats, mockery, defamation, harassment without physical impact.
 
-## Communication Etiquette Rules
+### 2.4 - Advertising
+Distributing information to draw attention to objects unrelated to the project.
 
-::: info
-These rules also apply to voice chat, unless the rule specifies that it applies only to text chat, and violations have been recorded by some method (e.g., screen recording).
-:::
+### 2.5 - Doxing
+Sharing other users’ personal information without their consent.
 
-#### Rule - 2.1
-Discussion of politics is prohibited.
+### 2.6 - NSFW/NSFL
 
-#### Rule - 2.2
-Disclosure of personal information is prohibited.
+### 2.7 - Discrediting the Administration
+Deliberate actions aimed at undermining the authority, image, and trust toward the decisions/actions/policies of the administration.
 
-#### Rule - 2.3
-Any kind of flooding in text chats is prohibited (e.g., spamming the text chat with meaningless massive messages, breaking text into multiple messages, repetitive off-topic messages).
+### 2.8 - Fraud
+Fraud in deals for any in-game property is a violation.
 
-#### Rule - 2.4
-Any kind of spam or mass messaging (sending advertising messages to individuals) in text chats is prohibited. Spam is defined as sending 3 or more messages (and every subsequent 2 messages).
+### 2.9 - Blacklist Violation
+If you are on a private blacklist, entering it is forbidden.
 
-#### Rule - 2.5
-Intentional harassment, bullying, or provocation of conflict towards an individual or group is prohibited.  
-| Punishment:     | Punishment Details:     |
-| --------------- | ----------------------- |
-| Penalty/Ban     | 15 crowns / 15 days     |
+## 3. Gameplay Rules
 
-## Territory Rules
+### 3.1 - Killing
+Killing another player without their consent or without being permitted by another server rule. Any action that results in a player’s death is considered killing.
 
-#### Rule - 3.1
-Privatizing territory containing **lootr** chests is prohibited.  
-| Penalty:        |
-| --------------- |
-| 1 gear          |
+### 3.2 - Damage
+Dealing damage to other players without their consent or allowed by other server rules.
 
-#### Rule - 3.2
-Intentionally destroying **lootr** chests for personal gain, such as creating a loot shortage, is prohibited. This rule applies to [Rule - 3.1](#rule-3-1).  
-| Penalty:        |
-| --------------- |
-| 15 gears        |
+### 3.3 - Drop
+Interfering with a killed player reclaiming their items, demanding payment, or refusing to return them.
 
-#### Rule - 3.3 
-A territory owner is allowed to attack a trespasser if they interfere with gameplay and have ignored a warning to leave the territory for 2 minutes. **A chat message must be recorded as evidence.** Verbal warnings (without additional evidence, such as screen recording) do not count.  
-This rule does not apply if:  
-- You created a private zone within the last 5 minutes.  
-- The territory is a trap from which escape is impossible.
+### 3.4 - Griefing
+Actions aimed at deliberately worsening the gameplay experience of other users.
 
-## Server
+### 3.5 - Theft
+Taking another person’s property without their personal consent.
 
-::: info
-**If you discover any technical vulnerabilities on the server, please report them in the Discord server in the ⁠[💭forum](https://discord.com/channels/1178798145476501544/1251953765058220062) channel.**
-:::
+### 3.6 - Server Destabilization
+Intentional actions aimed at impairing the server’s performance/stability.
 
-#### Rule - 3.1
-Any intentional attempts to harm the server, such as DoS/DDos attacks, lag machines, etc., are prohibited.
+### 3.7 - Duping
+Obtaining items using methods not intended by the developer (bugs, glitches, etc.).
 
-## Additional Rules
+### 3.8 - Information Gathering
+Obtaining server information using non-standard methods (third-party mods, bugs).
 
-#### Rule - 4.1
-Failure to pay a penalty within 5 days may result in a ban ranging from 10 to 30 days at the discretion of the administration.
+## 4. Claiming (Privat)
 
-#### Rule - 4.2
-The administration reserves the right to kick/ban for up to 24 hours without explanation.
+The creator of a private claim has the right to blacklist any player by entering the player’s nickname into the claim name with the tag ЧС:"nickname" (e.g., ЧС:fRUmtix).  
+The claim creator has the right to enforce their own rules within their claim.  
+Private claim rules do not override server rules.  
+Maintain a comfortable distance from neighbors when claiming land and building.  
+Claiming structures that have "lootr" chests is allowed only 1500 blocks away from coordinates 0 0 0.  
+Claiming is prohibited on the following structures: Fortress (End portal), Nether Fortress.
