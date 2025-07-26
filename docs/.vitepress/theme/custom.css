@@ -1,0 +1,6 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: rgba(169, 236, 81, 0.966);
+  --vp-c-brand-2: rgb(158, 241, 49);
+  --vp-c-brand-3: rgba(179, 235, 107, 0.966);
+}
