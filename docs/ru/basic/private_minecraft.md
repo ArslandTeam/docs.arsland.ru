@@ -18,17 +18,31 @@
 /openpac-claims unclaim ~ ~
 ```
 
-Команда, добавляющая игрока в ваш приват
+::: info
+Система **пати** - вечеринок устроенна, так что вы можите присоединиться только к одному из них
+:::
+
+Команда создающая пати.
 ```
-/openpac-claims sub-claim for <Ник>
+/openpac-parties create
 ```
 
-<!-- Оставляет ваш чанк загруженным в памяти сервера
+Команда для просмотра информации о пати игрока.
 ```
-/openpac-claims forceload ~ ~
+/openpac-parties about
 ```
 
-Отключает прогрузку чанка
+Команда, добавляющая игрока в ваше пати.
 ```
-/openpac-claims unforceload ~ ~
-``` -->
+/openpac-parties member invite <Ник>
+```
+
+Команда для выхода из чужого пати.
+```
+/openpac-parties leave
+```
+
+Команда удаляющая пати.
+```
+/openpac-parties destroy
+```
