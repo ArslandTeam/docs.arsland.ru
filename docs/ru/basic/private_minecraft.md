@@ -37,6 +37,16 @@
 /openpac-parties member invite <Ник>
 ```
 
+Команда, добавляющая игрока в ваше пати и выдающая ему ранг в нём.
+```
+/openpac-parties member rank <ADMIN | MODERATOR | MEMBER>
+```
+
+Передача владельца привата другому участнику привата
+```
+/openpac-parties transfer <Ник> confirm
+```
+
 Команда для выхода из чужого пати.
 ```
 /openpac-parties leave
@@ -44,5 +54,5 @@
 
 Команда удаляющая пати.
 ```
-/openpac-parties destroy
+/openpac-parties destroy confirm
 ```
