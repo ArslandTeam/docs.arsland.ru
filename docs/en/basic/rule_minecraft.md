@@ -1,13 +1,13 @@
 # Minecraft Rules
 
 ## 1. General Provisions
-By playing on our server, you agree to all the rules listed below. If you do not agree, you are obliged to stop using the project's services.  
-When interacting on the server, follow not only the rules but also moral norms.  
-You are personally responsible for your accounts and any other belongings on the project; the administration bears no responsibility for their loss.  
-If a player is deemed to be harming the server and/or other players, the administration may take measures not listed in the rules.  
-All rules serve as a guideline for reasonably imposing punishments on users.  
-The administration has the right to interpret the meaning of the rules independently.  
-The administration chooses the punishment for rule violations at its own discretion.
+&emsp;By playing on our server, you agree to all the rules listed below. If you do not agree, you are obliged to stop using the project's services.  
+&emsp;When interacting on the server, follow not only the rules but also moral norms.  
+&emsp;You are personally responsible for your accounts and any other belongings on the project; the administration bears no responsibility for their loss.  
+&emsp;If a player is deemed to be harming the server and/or other players, the administration may take measures not listed in the rules.  
+&emsp;All rules serve as a guideline for reasonably imposing punishments on users.  
+&emsp;The administration has the right to interpret the meaning of the rules independently.  
+&emsp;The administration chooses the punishment for rule violations at its own discretion.
 
 ## 2. Communication Rules
 
@@ -64,9 +64,9 @@ Obtaining server information using non-standard methods (third-party mods, bugs)
 
 ## 4. Claiming (Privat)
 
-The creator of a private claim has the right to blacklist any player by entering the player’s nickname into the claim name with the tag ЧС:"nickname" (e.g., ЧС:fRUmtix).  
-The claim creator has the right to enforce their own rules within their claim.  
-Private claim rules do not override server rules.  
-Maintain a comfortable distance from neighbors when claiming land and building.  
-Claiming structures that have "lootr" chests is allowed only 1500 blocks away from coordinates 0 0 0.  
-Claiming is prohibited on the following structures: Fortress (End portal), Nether Fortress.
+&emsp;The creator of a private claim has the right to blacklist any player by entering the player’s nickname into the claim name with the tag ЧС:"nickname" (e.g., ЧС:fRUmtix).  
+&emsp;The claim creator has the right to enforce their own rules within their claim.  
+&emsp;Private claim rules do not override server rules.  
+&emsp;Maintain a comfortable distance from neighbors when claiming land and building.  
+&emsp;Claiming structures that have "lootr" chests is allowed only 1500 blocks away from coordinates 0 0 0.  
+&emsp;Claiming is prohibited on the following structures: Fortress (End portal), Nether Fortress.

@@ -22,8 +22,8 @@ export const ru = {
       { text: 'Личный кабинет', link: 'https://arsland.ru' }
     ],
     footer: {
-      message: 'Опубликовано под лицензией MIT.',
-      copyright: '© 2025 – настоящее время, StelStelox'
+      message: 'Опубликовано под лицензией MPL-2.0.',
+      copyright: '© 2025 – настоящее время, ArslandTeam'
     },
     sidebar: sidebar
   }

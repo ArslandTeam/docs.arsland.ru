@@ -10,8 +10,8 @@ export const en = {
       { text: 'WebSite', link: 'https://arsland.ru' }
     ],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025-StelStelox'
+      message: 'Released under the MPL-2.0 License.',
+      copyright: 'Copyright © 2025-ArslandTeam'
     },
     sidebar: sidebar
   }

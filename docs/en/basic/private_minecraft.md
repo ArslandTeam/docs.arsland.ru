@@ -18,7 +18,41 @@ Command to remove privatization from a chunk:
 /openpac-claims unclaim ~ ~
 ```
 
-Command to add a player to your private:
+::: info
+The **party** system is set up so that you can only join one of them.
+:::
+
+The team creating the party.
 ```
-/openpac-claims sub-claim for <Username>
+/openpac-parties create
+```
+
+Command to view information about a player's party.
+```
+/openpac-parties about
+```
+
+A command that adds a player to your party.
+```
+/openpac-parties member invite <UserName>
+```
+
+A command that adds a player to your party and gives him a rank in it.
+```
+/openpac-parties member rank <ADMIN | MODERATOR | MEMBER>
+```
+
+Transferring the owner of a private to another participant of the private.
+```
+/openpac-parties transfer <UserName> confirm
+```
+
+Command to leave someone else's party.
+```
+/openpac-parties leave
+```
+
+Team that deletes a party.
+```
+/openpac-parties destroy confirm
 ```
