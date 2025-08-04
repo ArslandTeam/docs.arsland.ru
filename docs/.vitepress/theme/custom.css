@@ -1,7 +1,7 @@
 /* .vitepress/theme/custom.css */
 :root {
-  /* --vp-font-family-base: "Tiny5", sans-serif;
-  --vp-font-family-mono: "Tiny5", sans-serif; */
+  --vp-font-family-base: "JetBrains Mono", monospace;;
+  --vp-font-family-mono: "JetBrains Mono", monospace;;
   --vp-c-brand-1: rgb(0, 0, 0);
   --vp-c-brand-2: rgb(26, 24, 24);
   --vp-c-brand-3: rgb(53, 52, 52);

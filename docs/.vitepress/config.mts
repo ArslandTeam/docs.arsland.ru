@@ -13,18 +13,18 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/logo.svg" }],
     ["meta", { name: "theme-color", content: "#ffffffff" }],
-    // ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
-    // [
-    //   "link",
-    //   { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
-    // ],
-    // [
-    //   "link",
-    //   {
-    //     href: "https://fonts.googleapis.com/css2?family=Tiny5&display=swaphttps://fonts.googleapis.com/css2?family=Tiny5&display=swap",
-    //     rel: "stylesheet",
-    //   },
-    // ],
+    ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
+    [
+      "link",
+      { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
+    ],
+    [
+      "link",
+      {
+        href: "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap",
+        rel: "stylesheet",
+      },
+    ],
   ],
   sitemap: {
     hostname: "https://docs.arsland.ru",
