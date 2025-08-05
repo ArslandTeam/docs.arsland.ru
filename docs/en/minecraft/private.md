@@ -1,6 +1,6 @@
 # Privates
 ::: info
-Below is the available functionality for players from the [Open Parties and Claims]((https://modrinth.com/mod/open-parties-and-claims)) mod.
+Below is the available functionality for players from the [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims) mod.
 :::
 
 ## Commands
