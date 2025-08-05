@@ -7,20 +7,21 @@ const sidebar = [
   {
     text: 'Minecraft',
     items: [
-      { text: 'Minecraft rules', link: '/en/basic/rule_minecraft' },
-      { text: 'Privates', link: '/en/basic/private_minecraft' }
+      { text: 'Rules', link: '/en/minecraft/rules' },
+      { text: 'Privates', link: '/en/minecraft/private' },
+      { text: 'GriefLogger', link: '/en/minecraft/grief-logger' }
     ]
   },
   {
     text: 'Discord',
     items: [
-      { text: 'Discord rules', link: '/en/basic/rule_discord' }
+      { text: 'Rules', link: '/en/discord/rules' }
     ]
   },
   {
     text: 'Telegram',
     items: [
-      { text: 'Telegram rule', link: '/en/basic/rule_telegram' }
+      { text: 'Rules', link: '/en/telegram/rules' }
     ]
   }
 ]

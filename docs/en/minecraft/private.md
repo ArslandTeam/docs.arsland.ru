@@ -1,6 +1,6 @@
 # Privates
 ::: info
-Below is the available functionality for players from the Open Parties and Claims mod.
+Below is the available functionality for players from the [Open Parties and Claims]((https://modrinth.com/mod/open-parties-and-claims)) mod.
 :::
 
 ## Commands
@@ -27,32 +27,32 @@ The team creating the party.
 /openpac-parties create
 ```
 
-Command to view information about a player's party.
+Command to view information about a player's party:
 ```
 /openpac-parties about
 ```
 
-A command that adds a player to your party.
+A command that adds a player to your party:
 ```
 /openpac-parties member invite <UserName>
 ```
 
-A command that adds a player to your party and gives him a rank in it.
+A command that adds a player to your party and gives him a rank in it:
 ```
 /openpac-parties member rank <ADMIN | MODERATOR | MEMBER>
 ```
 
-Transferring the owner of a private to another participant of the private.
+Transferring the owner of a private to another participant of the private:
 ```
 /openpac-parties transfer <UserName> confirm
 ```
 
-Command to leave someone else's party.
+Command to leave someone else's party:
 ```
 /openpac-parties leave
 ```
 
-Team that deletes a party.
+Team that deletes a party:
 ```
 /openpac-parties destroy confirm
 ```

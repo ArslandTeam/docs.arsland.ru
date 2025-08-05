@@ -7,20 +7,21 @@ export const sidebar = [
   {
     text: 'Minecraft',
     items: [
-      { text: 'Правила Minecraft', link: '/basic/rule_minecraft' },
-      { text: 'Приваты', link: 'basic/private_minecraft' }
+      { text: 'Правила', link: '/minecraft/rules' },
+      { text: 'Приваты', link: 'minecraft/private' },
+      { text: 'GriefLogger', link: 'minecraft/grief-logger' }
     ]
   },
   {
     text: 'Discord',
     items: [
-      { text: 'Правила Discord', link: '/basic/rule_discord' }
+      { text: 'Правила', link: '/discord/rules' }
     ]
   },
   {
     text: 'Telegram',
     items: [
-      { text: 'Правила Telegram', link: '/basic/rule_telegram' }
+      { text: 'Правила', link: '/telegram/rules' }
     ]
   }
 ];
